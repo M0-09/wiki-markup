@@ -1,3 +1,23 @@
 * {
-  color: aqua;
+  background-color: beige; 
+}
+
+body {
+  padding: 25px;
+  max-width: 80ch;
+  margin: auto;
+  font-size: 1.2rem ;
+}
+
+h1 {
+  font-size: 4rem;
+  color: brown;
+}
+
+h3 {
+  font-size: 2.2rem;
+}
+
+.italics {
+  font-style: italic;
 }
